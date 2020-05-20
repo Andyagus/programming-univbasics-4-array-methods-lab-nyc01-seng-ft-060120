@@ -16,7 +16,7 @@ def using_first(array)
 end
 
 def using_last(array)
-  array.lsat
+  array.last
 
 end
 
